@@ -13,7 +13,7 @@ print(table.table_status)
 region = 'us-east-1'
 service = 'es'
 
-host = 'https://search-myrestaurantdomain-dbofzx7lzmkociljgv3hxlfmre.us-east-1.es.amazonaws.com'
+host = ''
 
 index = 'restaurants'
 type = 'Restaurant'
